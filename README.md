@@ -20,8 +20,8 @@ Ou seja, sempre estamos protelando nossas decisões. No projeto com pessoas, nã
 o mais fácil, conhecido e confortável. E foi exatamente o que a introdução do Scrum fez nesta equipe, tirou da zona de conforto
 e levou o projeto para o sucesso.
 
-Neste caso também podemos encontrar dois grandes valores do Scrum, a coragem e o comprometimento, pois sair do lugar comum rumo
-ao desconhecido e diferente nos exige estes atributos.
+Neste caso também podemos encontrar dois grandes valores do Scrum, a coragem e o comprometimento, além de um pilar, a Adaptação.
+Pois sair do lugar comum rumo ao desconhecido e diferente, nos exige estes atributos.
 
 
 ANÁLISE PDF EM ANEXO
